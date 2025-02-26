@@ -26,7 +26,7 @@ CSS (дизайн)
 📦 Орнату және іске қосу
 
 # Репозиторийді клондау
-git clone https://github.com/username/finance-tracker.git
+git clone https://github.com/aisara308/finance-tracker.git
 cd finance-tracker
 
 # Тәуелділіктерді орнату
